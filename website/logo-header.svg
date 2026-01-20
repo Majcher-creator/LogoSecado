@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#8B1F35"/>
+  
+  <!-- Duże słońce -->
+  <circle cx="220" cy="90" r="65" fill="#FFC627"/>
+  
+  <!-- Kompozycja domów -->
+  <g id="houses-banner-h">
+    <!-- Lewy dom z kominem -->
+    <polygon points="80,140 160,80 220,125 220,200 80,200" fill="#9ACD32"/>
+    <rect x="70" y="95" width="20" height="35" fill="#9ACD32"/>
+    <rect x="65" y="85" width="30" height="15" fill="#9ACD32"/>
+    <rect x="115" y="150" width="35" height="35" fill="#8B1F35"/>
+    <rect x="120" y="155" width="12" height="12" fill="#9ACD32"/>
+    <line x1="126" y1="155" x2="126" y2="167" stroke="#8B1F35" stroke-width="2"/>
+    <line x1="120" y1="161" x2="132" y2="161" stroke="#8B1F35" stroke-width="2"/>
+    
+    <!-- Główny środkowy dach - nachodzący -->
+    <path d="M 180,130 L 320,50 L 420,115 L 420,85 L 480,130 Z" fill="#9ACD32" stroke="#8B1F35" stroke-width="4"/>
+    <polygon points="220,130 320,65 420,130 420,200 260,200" fill="#8B1F35"/>
+    <circle cx="320" cy="155" r="22" fill="#9ACD32" stroke="#8B1F35" stroke-width="3"/>
+    <line x1="320" y1="133" x2="320" y2="177" stroke="#8B1F35" stroke-width="2.5"/>
+    <line x1="298" y1="155" x2="342" y2="155" stroke="#8B1F35" stroke-width="2.5"/>
+    
+    <!-- Prawy dom -->
+    <polygon points="450,140 530,75 600,140 600,200 480,200" fill="#9ACD32"/>
+    <rect x="515" y="150" width="30" height="35" fill="#8B1F35"/>
+    <rect x="520" y="155" width="10" height="12" fill="#9ACD32"/>
+    <line x1="525" y1="155" x2="525" y2="167" stroke="#8B1F35" stroke-width="1.5"/>
+    <line x1="520" y1="161" x2="530" y2="161" stroke="#8B1F35" stroke-width="1.5"/>
+    
+    <!-- Prawy komin -->
+    <rect x="610" y="110" width="18" height="35" fill="#9ACD32"/>
+    <rect x="605" y="100" width="28" height="15" fill="#9ACD32"/>
+  </g>
+  
+  <!-- Linie fundamentu -->
+  <path d="M 60,205 Q 330,220 610,205" stroke="#9ACD32" stroke-width="5" fill="none"/>
+  <path d="M 70,215 Q 330,230 600,215" stroke="#9ACD32" stroke-width="3" fill="none"/>
+  
+  <!-- Duży tekst -->
+  <text x="750" y="140" font-family="Arial Black, sans-serif" font-size="100" font-weight="900" fill="#FFC627" letter-spacing="-2">SeCaDO</text>
+  <text x="750" y="190" font-family="Arial, sans-serif" font-size="32" font-weight="600" fill="#FFC627" letter-spacing="6">Śląskie Centrum Dachowe</text>
+  <text x="750" y="235" font-family="Arial, sans-serif" font-size="22" fill="#9ACD32">Profesjonalne pokrycia dachowe • Blacharstwo</text>
+</svg>
