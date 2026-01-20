@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 600">
+  <rect width="300" height="600" fill="#8B1F35"/>
+  
+  <!-- Słońce -->
+  <circle cx="150" cy="70" r="50" fill="#FFC627"/>
+  
+  <!-- Kompozycja domów pionowa -->
+  <g id="houses-banner-v">
+    <polygon points="30,160 150,80 270,160 270,230 140,230" fill="#9ACD32" stroke="#8B1F35" stroke-width="3"/>
+    <polygon points="190,145 240,110 280,145 280,230 220,230" fill="#9ACD32"/>
+    <rect x="95" y="160" width="110" height="70" fill="#8B1F35"/>
+    <circle cx="150" cy="190" r="20" fill="#9ACD32" stroke="#8B1F35" stroke-width="2.5"/>
+    <line x1="150" y1="170" x2="150" y2="210" stroke="#8B1F35" stroke-width="2"/>
+    <line x1="130" y1="190" x2="170" y2="190" stroke="#8B1F35" stroke-width="2"/>
+    
+    <rect x="18" y="125" width="15" height="30" fill="#9ACD32"/>
+    <rect x="290" y="120" width="12" height="25" fill="#9ACD32"/>
+  </g>
+  
+  <path d="M 25,235 Q 150,245 275,235" stroke="#9ACD32" stroke-width="4" fill="none"/>
+  <path d="M 30,243 Q 150,253 270,243" stroke="#9ACD32" stroke-width="2.5" fill="none"/>
+  
+  <!-- Tekst -->
+  <text x="150" y="340" font-family="Arial Black, sans-serif" font-size="70" font-weight="900" fill="#FFC627" text-anchor="middle" letter-spacing="-1">SeCaDO</text>
+  
+  <text x="150" y="395" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#FFC627" text-anchor="middle" letter-spacing="3">Śląskie</text>
+  <text x="150" y="428" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#FFC627" text-anchor="middle" letter-spacing="3">Centrum</text>
+  <text x="150" y="461" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#FFC627" text-anchor="middle" letter-spacing="3">Dachowe</text>
+  
+  <line x1="40" y1="490" x2="260" y2="490" stroke="#FFC627" stroke-width="2"/>
+  
+  <text x="150" y="530" font-family="Arial, sans-serif" font-size="18" fill="#9ACD32" text-anchor="middle">Profesjonalne</text>
+  <text x="150" y="555" font-family="Arial, sans-serif" font-size="18" fill="#9ACD32" text-anchor="middle">pokrycia dachowe</text>
+</svg>

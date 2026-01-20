@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 550">
+  <rect width="850" height="550" fill="#8B1F35"/>
+  
+  <!-- Logo -->
+  <g id="card-front-logo">
+    <circle cx="150" cy="100" r="50" fill="#FFC627"/>
+    
+    <polygon points="60,180 180,90 280,165 280,250 100,250" fill="#9ACD32" stroke="#8B1F35" stroke-width="3"/>
+    <polygon points="260,155 350,90 430,155 430,250 320,250" fill="#9ACD32" stroke="#8B1F35" stroke-width="3"/>
+    
+    <rect x="130" y="180" width="100" height="70" fill="#8B1F35"/>
+    <circle cx="180" cy="210" r="18" fill="#9ACD32" stroke="#8B1F35" stroke-width="2"/>
+    <line x1="180" y1="192" x2="180" y2="228" stroke="#8B1F35" stroke-width="1.8"/>
+    <line x1="162" y1="210" x2="198" y2="210" stroke="#8B1F35" stroke-width="1.8"/>
+    
+    <rect x="50" y="140" width="15" height="30" fill="#9ACD32"/>
+    <rect x="440" y="120" width="14" height="28" fill="#9ACD32"/>
+  </g>
+  
+  <path d="M 50,255 Q 250,265 440,255" stroke="#9ACD32" stroke-width="4" fill="none"/>
+  <path d="M 55,263 Q 250,273 435,263" stroke="#9ACD32" stroke-width="2.5" fill="none"/>
+  
+  <text x="250" y="340" font-family="Arial Black, sans-serif" font-size="80" font-weight="900" fill="#FFC627" text-anchor="middle" letter-spacing="-1">SeCaDO</text>
+  <text x="250" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#FFC627" text-anchor="middle" letter-spacing="4">ŚLĄSKIE CENTRUM DACHOWE</text>
+  
+  <!-- Dane kontaktowe -->
+  <line x1="80" y1="420" x2="420" y2="420" stroke="#9ACD32" stroke-width="1.5"/>
+  <text x="250" y="460" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">tel: +48 123 456 789</text>
+  <text x="250" y="490" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">email: kontakt@secado.pl</text>
+  <text x="250" y="520" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle">www.secado.pl</text>
+</svg>

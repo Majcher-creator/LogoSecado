@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 550">
+  <rect width="850" height="550" fill="#8B1F35"/>
+  
+  <!-- Wzór w tle -->
+  <g opacity="0.08">
+    <polygon points="100,80 200,30 300,80" fill="#9ACD32"/>
+    <polygon points="450,120 550,70 650,120" fill="#9ACD32"/>
+    <polygon points="150,280 250,230 350,280" fill="#9ACD32"/>
+    <polygon points="550,350 650,300 750,350" fill="#9ACD32"/>
+    <circle cx="750" cy="80" r="45" fill="#FFC627"/>
+    <circle cx="120" cy="450" r="40" fill="#FFC627"/>
+  </g>
+  
+  <!-- Nagłówek -->
+  <text x="425" y="100" font-family="Arial Black, sans-serif" font-size="52" font-weight="900" fill="#FFC627" text-anchor="middle">NASZE USŁUGI</text>
+  
+  <line x1="150" y1="130" x2="700" y2="130" stroke="#9ACD32" stroke-width="3"/>
+  
+  <!-- Lista usług -->
+  <text x="425" y="200" font-family="Arial, sans-serif" font-size="28" fill="#FFFFFF" text-anchor="middle">• Pokrycia dachowe</text>
+  <text x="425" y="245" font-family="Arial, sans-serif" font-size="28" fill="#FFFFFF" text-anchor="middle">• Dachy skośne i płaskie</text>
+  <text x="425" y="290" font-family="Arial, sans-serif" font-size="28" fill="#FFFFFF" text-anchor="middle">• Blacharstwo</text>
+  <text x="425" y="335" font-family="Arial, sans-serif" font-size="28" fill="#FFFFFF" text-anchor="middle">• Rynny i obróbki</text>
+  <text x="425" y="380" font-family="Arial, sans-serif" font-size="28" fill="#FFFFFF" text-anchor="middle">• Docieplenia dachów</text>
+  
+  <line x1="150" y1="420" x2="700" y2="420" stroke="#9ACD32" stroke-width="3"/>
+  
+  <!-- Stopka -->
+  <text x="425" y="480" font-family="Arial Black, sans-serif" font-size="24" font-weight="700" fill="#9ACD32" text-anchor="middle">Śląsk • Profesjonalnie • Od 20 lat</text>
+</svg>
