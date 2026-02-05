@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <rect width="400" height="100" fill="#8B1F35"/>
+  
+  <!-- Domy - mała wersja -->
+  <g id="houses-email">
+    <circle cx="50" cy="25" r="18" fill="#FFC627"/>
+    
+    <polygon points="20,45 45,25 60,37 60,60 20,60" fill="#9ACD32"/>
+    <rect x="15" y="33" width="6" height="10" fill="#9ACD32"/>
+    
+    <polygon points="55,42 85,20 115,42 115,60 80,60" fill="#9ACD32"/>
+    <circle cx="95" cy="48" r="5" fill="#9ACD32" stroke="#8B1F35" stroke-width="1"/>
+    
+    <polygon points="110,45 130,28 148,45 148,60 128,60" fill="#9ACD32"/>
+    <rect x="152" y="38" width="5" height="10" fill="#9ACD32"/>
+    
+    <path d="M 15,62 Q 80,67 150,62" stroke="#9ACD32" stroke-width="1.5" fill="none"/>
+    <path d="M 18,65 Q 80,70 147,65" stroke="#9ACD32" stroke-width="1" fill="none"/>
+  </g>
+  
+  <text x="200" y="55" font-family="Arial Black, sans-serif" font-size="36" font-weight="900" fill="#FFC627" text-anchor="middle">SeCaDO</text>
+  <text x="200" y="75" font-family="Arial, sans-serif" font-size="12" fill="#FFC627" text-anchor="middle" letter-spacing="3">ŚLĄSKIE CENTRUM DACHOWE</text>
+</svg>
